@@ -10,8 +10,6 @@ Make sure you remove `raise NotImplementedError()` and fill in any place that sa
 """
 
 NAME = "Md. Abrar-ud-doula Amiya"
-ID = "21301567"
-SECTION = "07"
 
 from matplotlib import pyplot as plt
 x = [1,2,3]
