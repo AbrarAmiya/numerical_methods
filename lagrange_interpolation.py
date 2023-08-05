@@ -10,8 +10,7 @@ Make sure you remove `raise NotImplementedError()` and fill in any place that sa
 """
 
 NAME = "Md. Abrar-ud-doula Amiya"
-ID = "21301567"
-SECTION = "07"
+
 
 """---
 
