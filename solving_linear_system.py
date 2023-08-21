@@ -9,10 +9,6 @@ Original file is located at
 Make sure you remove `raise NotImplementedError()` and fill in any place that says `# YOUR CODE HERE`, as well as your `NAME`, `ID`, and `LAB_SECTION` below:
 """
 
-NAME = "Mohammad Shafkat Hasan"
-ID = "19101077"
-SECTION = "03"
-
 """# Part 1: Solving a linear system using inverse matrix
 
 We have a linear system
