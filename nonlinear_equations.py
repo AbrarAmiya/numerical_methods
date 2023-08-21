@@ -9,9 +9,7 @@ Original file is located at
 Make sure you remove `raise NotImplementedError()` and fill in any place that says `# YOUR CODE HERE`, as well as your `NAME`, `ID`, and `SECTION` below:
 """
 
-NAME = "Md. Abrar-ud-doula Amiya"
-ID = "21301567"
-SECTION = "07"
+
 
 """---
 
